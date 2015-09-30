@@ -1,0 +1,7 @@
+1) time of possession vs QB/offense performance of other team
+
+2) clustering of games and game types
+
+3) probability for having good game (distribution yardage and TDs)
+
+4) clustering of teams and team types
